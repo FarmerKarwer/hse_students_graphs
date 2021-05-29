@@ -1,4 +1,4 @@
-# Extraction and analysis of data about connections between students of HIgher School of Economics in St. Petersburg
+# Analysis of HSE students’ (St. Petersburg campus) relationships using graphs (based on Vkontakte data)
 
 ## Description of the files:
 - data_extraction.py is scrap the data about HSE students from VK communities
